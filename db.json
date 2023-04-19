@@ -1,0 +1,119 @@
+{
+  "synths": [
+    {
+      "id": 1,
+      "name": "MiniMoog Model D",
+      "image": "https://images.reverb.com/image/upload/s--769Bes2N--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1476387718/c4q0a9p6bbqmbwy17kir.jpg",
+      "kidUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mountain-dew-baja-blast-colada-freeze-1621520057.jpg?resize=640:*",
+      "condtion": "★★★★☆",
+      "price": 6000,
+      "description": "This is THE original portable synthesizer. 3 oscillator synth with infinite flexibility and charm.",
+      "altDescription": "DRINKING BAJA BLAST IS DEFINITELY THE BEST WAY TO MAKE LIFE LONG FREINDS!",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 2,
+      "name": "Roland Jupiter 4",
+      "image": "https://images.reverb.com/image/upload/s--VTyIUtoP--/f_auto,t_supersize/v1616519586/d4mwoazm0d1meuxe0jr1.png",
+      "kidUrl": "https://cdn.totallythebomb.com/wp-content/uploads/2021/03/taco-bell-wild-strawberry-lemonade-freeze-1615475088-700x700.jpg",
+      "condtion": "★★★★☆",
+      "price": 5000,
+      "description": "It may look like a hokey organ, but this is one of the most haunting sounding synths of all time.",
+      "altDescription": "TACO BELL IS RELEASING A NEW MOUNTAIN DEW BAJA BLAST COLADA FREEZE THAT WILL TAKE YOU ON A VACATION!",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 3,
+      "name": "Sequential Circuits Prophet 5",
+      "image": "https://yo41t1y5gos9jw8f3lptw0xo-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Prophet-5.jpg",
+      "kidUrl": "https://www.mashed.com/img/gallery/the-untold-truth-of-mountain-dew-baja-blast-upgrade/there-are-even-baja-blast-room-scents-1646154721.webp",
+      "condtion": "★★★★☆",
+      "price": 3000,
+      "description": "Probably the most famous polysynth of all time. Used by Talking Heads, Hall and Oates... and well, everyone in the 80's.",
+      "altDescription": "THERE IS A BAJA BLAST SCENTED BATHROOM SPRAY!",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 4,
+      "name": "Roland Juno-106",
+      "image": "https://files1.kyozou.com/Pictures/_46/45806/45805567.jpg",
+      "kidUrl": "https://d2aam04nmhpdf8.cloudfront.net/images/images/000/062/848/xlarge/nwzwjjzvyvd6ol7lgrox.jpg?1624695530",
+      "condtion": "★★★★☆",
+      "price": 2000,
+      "description": "Once a budget analog polysynth, this workhorse has gained popularity in the last decade and is now in the PRO-5 pricerange",
+      "altDescription": "IF YOU DON'T HAVE A TACO BELL WITH IN WALKING DISTANCE OF YOUR HOUSE, YOU CAN BUY BAJA BLAST CANS ON INTERNET!",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 5,
+      "name": "Korg Mono/Poly",
+      "image": "https://www.ocsidance.com/wp-content/uploads/2017/01/Korg-Mono-Poly-7.jpg",
+      "kidUrl": "https://www.tacobell.com/images/1659_birthday_baja_blast_freeze_1025x480.jpg",
+      "condtion": "★★★★☆",
+      "price": 3000,
+      "description": "Is it monophonic? Is it polyphonic? NO! ...yes? This is a weird one. It funcitons as a 4 oscillator monosynth, but has the ability to assign every oscillator to a new voice. V cool.",
+      "altDescription": "TACO BELL CAN MAKE YOU A BAJA BLAST FREEZE WITH BIRTHDAY SPRINKLES IN IT! ...GOOD",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 6,
+      "name": "ARP Quadra",
+      "image": "https://whatgear-pictures.s3.us-west-2.amazonaws.com/products/medium_arp_quadra_1_6b682eeca5.jpg",
+      "kidUrl": "https://www.mashed.com/img/gallery/the-untold-truth-of-mountain-dew-baja-blast-upgrade/there-is-a-baja-blast-lip-balm-1646154721.webp",
+      "condtion": "★★★★☆",
+      "price": 5000,
+      "description": "ARP's idea at an all in one synth. It has a string section a lead section and a brass section... but it's all about the phaser. Seriously, the best phaser.",
+      "altDescription": "YOU CAN BUY BAJA BLAST LIP BALM!",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 7,
+      "name": "EMS Synthi",
+      "image": "https://soundgas.com/wp-content/uploads/2022/01/EMS-Synthi-VCS3-Putney-SN254-Cover-3.jpg",
+      "kidUrl": "https://www.mashed.com/img/gallery/the-untold-truth-of-mountain-dew-baja-blast-upgrade/the-sugar-content-is-high-but-the-caffeine-level-isnt-1646154721.webp",
+      "condtion": "★★★★☆",
+      "price": 9000,
+      "description": "A Brian Eno favorite, this was used on David Bowie's hereos.",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 8,
+      "name": "Korg Polysix",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/KORG_Polysix.jpg",
+      "kidUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/KORG_Polysix.jpg",
+      "condtion": "★★★★☆",
+      "price": 2000,
+      "description": "Korgs answer to the Juno-106 an affoardable entrylevel polysynth with a built in chours, ensemble, and phaser.",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 9,
+      "name": "Yamaha DX7",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/YAMAHA_DX7.jpg",
+      "kidUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/YAMAHA_DX7.jpg",
+      "condtion": "★★★★☆",
+      "price": 500,
+      "description": "The game changer. Reliable. Affordable. Versitile. This synth changed the keyboard world forever.",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "id": 10,
+      "name": "Roland Jupiter 6",
+      "image": "https://www.vintagesynth.com/sites/default/files/2017-05/roland_jupiter6.jpg",
+      "kidUrl": "https://www.vintagesynth.com/sites/default/files/2017-05/roland_jupiter6.jpg",
+      "condtion": "★★★★☆",
+      "price": 2300,
+      "description": "The most metallic and cold sounding out of the 3 Jupiters, but maybe that's what you want?",
+      "contact": "1(415)555-SYNTH"
+    },
+    {
+      "name": "Moog mg1",
+      "condition": "great",
+      "image": "https://images.reverb.com/image/upload/s--NI23Sd_V--/f_auto,t_large/v1557424613/mots9tuorgu5pxexw4gh.png",
+      "price": "500",
+      "description": "very sick dual oscillator synth",
+      "contact": "mroesinger@gmail.com",
+      "id": 11
+    }
+  ]
+}
